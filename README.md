@@ -16,7 +16,7 @@ Forums Thread:
  • A orbit with a eccentricity between 0.75 to 0.9 eccentricity, also used for planet orbits.
  
 - Very High [Planet Name] Orbit (VH_O)
- • A orbit above 75% of the SOI diameter. (Eg: SOI of certain body is 25,000m, VHO of that object would be 6,250.)
+ • A orbit above 75% of the SOI diameter. (Eg: SOI of certain body is 25,000m, VHO of that object would be 6,250m and above.)
 
 - SOI Edge Orbit (SEO)
  • A orbit within only 50m of distance from the craft to the SOI edge.
